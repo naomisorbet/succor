@@ -1,0 +1,17 @@
+figure out & choose default texts
+make billboard fill all the way to the right side
+fix nav links
+blog
+choose different readable font (this one has bold weight that's too wide)
+
+
+Need from Svetlana:
+
+Choose product options
+product photos
+*contract
+
+With Svetlana:
+
+fill out ecwid stuff (Stripe wants tax id numbers etc)
+

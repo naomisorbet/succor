@@ -1,0 +1,185 @@
+body {
+	font-family: "Corben";
+}
+
+.nav li {
+	display: inline;
+	padding-left: 12px;
+	padding-right: 12px;
+	font-size: 1.5em;
+}
+
+.nav ul {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 1%;
+	
+}
+
+/*#left {
+	margin-left: auto;
+}
+
+#right {
+	float: right;
+}*/
+
+.billboard {
+	background: radial-gradient(circle, white, #D6E8F7);
+	margin-bottom: -5%;
+	padding-left: 12%;
+	padding-top: 2%;
+	padding-bottom: 3%;
+}
+
+.billboard span {
+	font-weight: bold;
+	font-size: 5.5em;
+	color: #FBAD20;
+	margin-left: -6.5%;
+	padding-top: -20px;
+
+}
+
+.billboard p {
+	padding-bottom: 3%;
+	color: #4AA942;
+	padding-top:-20%;
+	padding-bottom: 5%;
+}
+
+.jumbotron {
+	margin-right: -1%;
+	font-family: 'Cabin Sketch';
+	display: inline-block;
+	padding-top: 153px;
+	padding-bottom: 153px;
+	width: 33.85%;
+}
+
+.jumbotron a {
+	font-size: 2.5em;
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+#footer {
+	display: inline;
+	text-decoration: none;
+	list-style-type: none;
+	padding-right: 15%;
+	padding-left: 15%;
+	padding: none;
+}
+
+#footer ul {
+	float: left;
+/*	position: relative;
+	left: 12%;*/
+}
+
+#footer ul li {
+	list-style-type: none;
+	text-align: justify;
+	color: #C60C46;
+	font-weight: bold;
+}
+
+#footer li a {
+	margin-right: auto;
+	color: #ed5d22;
+	font-weight: normal;
+}
+
+#footer li a:hover {
+	font-weight: bold;
+}
+
+#one {
+	color: #C60C46;
+}
+
+#two {
+	color: #ed5d22;
+}
+
+#three {
+	color: #FBAD20;
+}
+
+#four { 
+	color: #83BF21;
+}
+
+#five {
+	color: #4AA942;
+}
+
+
+
+.row > div {
+	padding: 150px;
+	display: inline-block;
+	margin: -10px;
+}
+
+#beet {
+	text-align: center;
+	background-image: url("../img/beets3.jpg");
+	background-position: center;
+}
+
+#lemon {
+	text-align: center;
+	background-image: url("../img/lemons_limes.jpg");
+}
+
+#ginger {
+	text-align: center;
+	background-image: url("../img/ginger1.jpg");
+}
+
+.sketchy {
+	font-family: "Cabin Sketch";
+}
+
+h1 {
+/*	text-align: center;*/
+	color: #C60C46;
+	padding-top: 40px;
+	padding-bottom: -200px;
+}
+
+#buy_beet {
+	display: inline-block;
+	margin-left: auto;
+}
+
+#blog_teaser {
+	display: inline block;
+	margin-top: -5%	;
+	padding-top: 5%;
+	padding-left: 12%;
+	padding-right: 10%;
+	background: radial-gradient(circle, white, #CCFF99);
+}
+
+#blog_teaser span {
+	font-size: 1.5em;
+	margin-left: -6.5%;
+	color: #4AA942;
+}
+
+#blog_teaser p {
+	padding-bottom: 4%;
+}
+
+#blog_teaser a {
+	color: #C60C46;
+	text-decoration: none;
+}
